@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">tareasapp</string>
+    <string name="btn_delete_txt">Eliminar</string>
+</resources>
